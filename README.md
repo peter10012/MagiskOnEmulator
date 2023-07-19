@@ -1,3 +1,6 @@
+# MagiskOnEmulator
+forked https://github.com/shakalaca/MagiskOnEmulator
+
 Install Magisk On Official Android Emulator
 ===========================================
 
